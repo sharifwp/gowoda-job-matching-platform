@@ -1,7 +1,3 @@
-# gowoda-job-matching-platform
-
-Custom WordPress website developed for GoWoda — a job-matching platform connecting skilled professionals with employers. Built with a focus on user experience, intuitive job search flow, and clean design using Elementor Pro and ACF for dynamic content handling.
-
 ## Job Matching & Recruitment Platform – [Live Website](https://gowoda.com/)
 ### Overview
 This project involved designing and developing a tailored WordPress site for GoWoda, a professional job-matching platform. The website was built to provide a seamless experience for both job seekers and employers, showcasing available positions, talent categories, and company services with an emphasis on clarity and conversion.
